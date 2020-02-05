@@ -1,6 +1,13 @@
+#### `Özgür Yazılım Kış Kampı '20`
+
+### `Bilişim Hukuku - GÜN 1 - 2020.01.24`
+
+---
+
 Önemli olan hukuk **nosyon**u edinmektir. Hukuk **losyon** edinildiğinde hep yüzeysel kalır.
-**losyon:** tene sürülen, yüzey üstü, yüzelsel.
-**nosyon:** içselleştirmek.
+
+***losyon:*** tene sürülen, yüzey üstü, yüzelsel.
+***nosyon:*** içselleştirmek.
 
 ### `Biz hukuk nosyonu edindik, losyon değil!`
 
@@ -240,7 +247,7 @@ Veya irade beyaninin yerini tutan bir davranis olmadikca o islemin varligindan s
 ---
 
 
-# Hukuk Genel Kültür
+# Temek hukuk bilgileri
 
 ## İlga/Mülga Nedir?
 
@@ -266,6 +273,68 @@ Hukukta **mülga** kelimesi yürürlükten kaldırılan anlamına gelmektedir. H
 	<img alt="madde-bend-fikra" src="/images/day1/madde-bend-fikra.png" width="400">
 </p>
 
+---
+> Engür Pişirici dersi devraldı.
+# Bilişim Hukuku Nedir?
+
+Aslında **"Bilişim Hukuku"** bir yüksek lisans programıdır.
+
+*Bu kursun amacı;*
+
+#### `Bilişimciye Hukuk norm'u hukukçuya da bilişim anlatmak.`
+
+### Sayı saymasını bilen var mı?
+
+**Bir** rakamı Türkçe temellidir. [**[0]**](https://onturk.org/2011/04/22/sayilarin-on-turkce-kokenlerine-dair/)
+
+Fakat **sıfır** rakamı Hindistan temellidir. [**[1]**](https://www.bbc.com/turkce/vert-fut-38238928)
+
+<p align="center">
+	<img alt="love" src="https://images.unsplash.com/photo-1580569306056-17e5082be310?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80" width="500">
+</p>
+
+- Neden **10'luk sayı sitemini** kullanıyoruz?
+> **Çünkü 10 adet parmağımız var.**
+
+Bilgisayarlarda yaygın olarak 2'lik ve 16'lık sayı sistemleri kullanılır.
+
+
+- Galat-ı Meşur örnekleri
+selpak vb..
+
+---
+
+## `Internetin temelinde bir oterite yoktur.`
+> **İnternetin temelleri anarşizime dayanır.**
+
+- ***Eğer ben şimdi bacına çörek dersem polis yok mu?***
+
+##### `"Toplu kabulleniş bireysel reddediş."`
+
+### Peki, internet üzerinde bir sahiplik belirtilebilir mi?
+
+- *Aranızda bir alan adına sahip olan var mı?*
+Oterite olamayan bir ortamda bir sahiplikten bahsetmek mümkün mü?
+
+- **Bir domain tanımlamak için bir yere para vermenize gerek yok. Bir dns sunucusu kurup istediğiniz domain yönlendirmelerini yapabilirsiniz. 1 kuruş da para vermeniz gerekmez.**
+
+- *Namecheap'e para verip domain alıyoruz?*
+Madem internet bedava biz neye para veriyoruz.
+
+
+### IANA ve ICANN
+
+ *ICANN Kuruluşu **Internet Corporation of Assigned Names and Number** kelimelerinin baş harflerinin kısaltmasından oluşan Türkçe anlamıyla İnternet Tahsisli Sayılar ve İsimler Kurumu dur. Bu kurum kendi tabiriyle kar amacı gütmeyen internetin kararlılığını ve bütünlüğünü desteklemek amacıyla birlikte çalışan küresel internet topluluklarıdır.*
+
+ *Bu servisler ilk olarak ABD hükümeti ile yapılan sözleşme gereği İnternet Tahsisli Sayılar Otoritesi (**IANA**) ve diğer kurumlar tarafından gerçekleştiriliyordu. Günümüzde **IANA’nın** işlevini **ICANN** gerçekleştirmektedir.*  
+
+ *Yani ICANN internetin kullanıcılara belirli kurallar çerçevesinde ulaşa bilemesi için tüm Teknik, İdari ve Politik görevlerinde sorumlu bir kuruluştur.*
+
+[**iana.org**](https://www.iana.org/)
+[**icann.org**](https://www.icann.org/)
+
+
+
 ..
 ..
 ..
@@ -291,3 +360,7 @@ Hukukta **mülga** kelimesi yürürlükten kaldırılan anlamına gelmektedir. H
 ..
 ..
 ..
+
+## Kaynakça
+
+Person doing "Love" with finger sign - Photo by [K](https://unsplash.com/@trananh69?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
