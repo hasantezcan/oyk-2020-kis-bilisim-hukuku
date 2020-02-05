@@ -29,7 +29,7 @@
 
 #### Din kuralları
 
-- Statiktir
+- Statiktir.
   - Aynı din için değişkenlik göstermez.(mesepleri saymazsak)
 
 - Maddi bir yaptırımı yoktur
@@ -38,11 +38,11 @@
   - Uhrevi
   - Dünyevi
 
-- Değişken değilidir. Güncellenmezler.
+- Değişken değildir. Güncellenmezler.
 
 - Yazılı olanları, olmayanları vardır.
 
-#### Örf ve adet Kurallı - Teamüller
+#### Örf ve adet Kuralları - Teamüller
 
 - Örf ve âdet durumuna gelmiş, yazılı olarak tespit edilmemiş hukuk.
   - **Teamül:** Öteden beri olagelen iş.
@@ -77,15 +77,15 @@
 ## Kanun yapma kuralları
 - #### Kazuistik yöntem
 
-  - *Kara avrupa hukuku Almanya*
+  - *Kara Avrupa Hukuku Almanya*
 
   - Her kanun teker teker yazılır.
 
   - **Türkiye bu kanun yapma yöntemini kullanır.**
 
-- #### Soyut Norm denetimi
+- #### Soyut Norm Denetimi
 
-  - *Anglo sakson ülkelerde bu yöntem kullanılır*
+  - *Anglosakson ülkelerde bu yöntem kullanılır*
 
   - Her olay teker teker anlatmak yerine konu başlıkları ile açıklanır. Yargı yapılacak yoruma göre çalışır. Her şeyin yazmasına gerek kalmaz.
 
@@ -101,7 +101,7 @@
 - Hukuk = Haklar
 
 ---
-## Neden Hukuka ihtiyaç vardır?
+## Neden hukuka ihtiyaç vardır?
 
 <p align="center">
 	<img alt="hukukun-islevi" src="/images/day1/hukukun-islevi.png" width="600">
@@ -120,7 +120,7 @@
   - #### Denkleştirici(Düzeltici)
     - Herkesin eşit işleme tabi tutulması. **Örn:** Genç/yaşlı, fakir/zengin.. ayrımının yapılmaması.
 
-  - #### Paylaştırcı(Dağıtıcı)
+  - #### Paylaştırıcı(Dağıtıcı)
     - Farklı durumları kültürleri, farklı oranda işleme tabi tutulması. **Örn:** Gelir vergisinin ödeme gücüne göre olması
 
 #### Toplumsallık
@@ -143,7 +143,7 @@
 - **TMK 2/2**
 
 #### Yetki verici
-- Hak sahibi olmayı öngören ifade
+- Hak sahibi olmayı öngören ifade.
 
 #### İzin verici
 - Dilediği şekilde davranma imkanı.
@@ -178,13 +178,13 @@
 
 ## Yokluk
 
-Bir hukuki islemin kurucu unsurlarinin tamam olmamasi halinde, soz konusu hukuki islem varlik kazanamaz ve hukuki iliski kurulmaz yani ortada bir hukuki islem yoktur
+Bir hukuki islemin kurucu unsurlarının tamam olmaması halinde, söz konusu hukuki işlem varlık kazanamaz ve hukuki ilişki kurulmaz yani ortada bir hukuki işlem yoktur.
 
-O yuzden buna yokluk denilmis
+O yüzden buna yokluk denilmiş.
 
-Bu kurucu unsurlardan anlamamiz gereken o hukuki islemin kurulabilmesi icin temel teskil eden irade beyani yani bu kisinin beyanidir
+Bu kurucu unsurlardan anlamamız gereken o hukuki işlemin kurulabilmesi için temel teşkil eden irade beyanı yani bu kişinin beyanıdır.
 
-Veya irade beyaninin yerini tutan bir davranis olmadikca o islemin varligindan soz edilemez
+Veya irade beyanının yerini tutan bir davranış olmadıkça o işlemin varlığından söz edilemez.
 
 <p align="center">
 	<img alt="yokluk-ornek" src="/images/day1/yokluk-ornek.png" width="600">
@@ -213,7 +213,7 @@ Veya irade beyaninin yerini tutan bir davranis olmadikca o islemin varligindan s
 #### İdeal (Doğal-Tabii) Hukuk:
 - Olması istenen veya olması gereken hukuktur.
 
-#### Pozitif Hukuk
+#### Tarihi Hukuk
 - Şu an yürürlükte olmayan ve geçmişte kullanılmış hukuk türüdür.
 
 ---
@@ -262,7 +262,7 @@ Hukukta **mülga** kelimesi yürürlükten kaldırılan anlamına gelmektedir. H
 - Madde içinde anlam bütünlüğü sağlayan her bir paragrafa verilen hukuki isimdir.
 
 **Bend:**
-- Maddede her bir en küçük ifade birimi, alt bent, alt bent birden fazla cümleden oluşuyorsa “cümle” olmaktadır.  **Maddeler; numara ile**, **bentler; harfle**, **alt bentler yine numara** ile gösterilmektedir.
+- Maddede herbir en küçük ifade birimi, alt bent, alt bent birden fazla cümleden oluşuyorsa “cümle” olmaktadır.  **Maddeler; numara ile**, **bentler; harfle**, **alt bentler yine numara** ile gösterilmektedir.
 
 ### `TMK m.2/1-c`
 
@@ -275,16 +275,15 @@ Hukukta **mülga** kelimesi yürürlükten kaldırılan anlamına gelmektedir. H
 
 ## Hukukta Yardımcı Kişiler
 
-### 1- Bilir kişi
-- Sözlü bilir kişi sözlü katılmaz.
-- Hukuk bilirkişi almamaıldır çünkü hakim hukuk bilir kişisidir.
-- Bilir kişiyi hakim davaya dahil eder
-- Avukatlar da bilir kişi siteyebilir ama o zaman bu uzman görüşü olur.
+### 1- Bilirkişi
+- Bilirkişinin oluşturmuş olduğu rapor mahkemede kullanılır.
+- Bilirkişi mahkemeye gerekli görüldüğü takdirde hakim tarafından davet edilir.
+- Avukatlar da mahkemede bilirkişiye başvurulmasını isteyebilir.
 
-**Bilir kişilik şartları;**
+**Bilirkişilik şartları;**
 [`https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6754.pdf`](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6754.pdf)
 
-Hukuk iki ye ayrılır
+Hukuk ikiye ayrılır.
 
 - **Özel hukuku**
     - Medeni, aile, eşya, ticaret, devletler özel(pasoport meselesi)
@@ -301,20 +300,18 @@ Hukuk iki ye ayrılır
 **Arabuluculuk şartları:**
 - T.C vatandaşı
 - Hukuk fakültesi mezunu olmak
-- Mesleğinde5 yıl kıdeme sahip olmak
-- Sınavda başarı puanı (70 puan)
+- Mesleğinde 5 yıl kıdeme sahip olmak
+- Sınavda başarı puanı
 
-**Ara buluculuk hakkında düşünceler;**
+**Arabuluculuk hakkında düşünceler;**
 
-- İnsanların adil yargılanma hakkına engel olan bir yöntem olduğunun düşübülüyor.
-- Uzun hukuk ortamına davanın girmesine öneleyip pratikce çözümlemeyi sağlıyor.
+- İnsanların adil yargılanma hakkına engel olan bir yöntem olduğu düşünülüyor.Bunun gerekçesi olarak da tarafların gerçekten de eşit kabul edilip edilemeyeceği öne sürülmektedir.
+- Hukuk yargılamasının uzun sürede devam etmesi ve mahkemelerin dava yükünü azaltması için bu alternatif uyuşmazlık yöntemine başvurulmuştur.
 
-### Uzalaştırma
+### Uzlaştırma
 - Ceza hukuku
 
-Basit yaralama, gibi
-
-Akrabalık bağı yok ise..
+Basit yaralamada gidilebilir.
 
 ..
 ..
@@ -342,19 +339,20 @@ Fakat **sıfır** rakamı Hindistan temellidir. [**[1]**](https://www.bbc.com/tu
 	<img alt="love" src="https://images.unsplash.com/photo-1580569306056-17e5082be310?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80" width="500">
 </p>
 
-- Neden **10'luk sayı sitemini** kullanıyoruz?
+- Neden **10'luk sayı sistemini** kullanıyoruz?
 > **Çünkü 10 adet parmağımız var.**
 
 Bilgisayarlarda yaygın olarak 2'lik ve 16'lık sayı sistemleri kullanılır.
 
 
-- Galat-ı Meşur örnekleri
-selpak vb..
+### Galat-ı Meşurlar
+
+> Yaygınlaştığı için yanlışlığına önem vermeden kullanılagelen söz. (şive değil, ağız)
 
 ---
 
-## `Internetin temelinde bir oterite yoktur.`
-> **İnternetin temelleri anarşizime dayanır.**
+## `Internetin temelinde bir otorite yoktur.`
+> **İnternetin temelleri anarşizme dayanır.**
 
 - ***Eğer ben şimdi bacına çörek dersem polis yok mu?***
 
@@ -363,7 +361,7 @@ selpak vb..
 ### Peki, internet üzerinde bir sahiplik belirtilebilir mi?
 
 - *Aranızda bir alan adına sahip olan var mı?*
-Oterite olamayan bir ortamda bir sahiplikten bahsetmek mümkün mü?
+Otorite olamayan bir ortamda bir sahiplikten bahsetmek mümkün mü?
 
 - **Bir domain tanımlamak için bir yere para vermenize gerek yok. Bir dns sunucusu kurup istediğiniz domain yönlendirmelerini yapabilirsiniz. 1 kuruş da para vermeniz gerekmez.**
 
@@ -373,11 +371,11 @@ Madem internet bedava biz neye para veriyoruz.
 
 ### IANA ve ICANN
 
- *ICANN Kuruluşu **Internet Corporation of Assigned Names and Number** kelimelerinin baş harflerinin kısaltmasından oluşan Türkçe anlamıyla İnternet Tahsisli Sayılar ve İsimler Kurumu dur. Bu kurum kendi tabiriyle kar amacı gütmeyen internetin kararlılığını ve bütünlüğünü desteklemek amacıyla birlikte çalışan küresel internet topluluklarıdır.*
+ *ICANN Kuruluşu **Internet Corporation of Assigned Names and Number** kelimelerinin baş harflerinin kısaltmasından oluşan Türkçe anlamıyla İnternet Tahsisli Sayılar ve İsimler Kurumudur. Bu kurum kendi tabiriyle kar amacı gütmeyen internetin kararlılığını ve bütünlüğünü desteklemek amacıyla birlikte çalışan küresel internet topluluklarıdır.*
 
- *Bu servisler ilk olarak ABD hükümeti ile yapılan sözleşme gereği İnternet Tahsisli Sayılar Otoritesi (**IANA**) ve diğer kurumlar tarafından gerçekleştiriliyordu. Günümüzde **IANA’nın** işlevini **ICANN** gerçekleştirmektedir.*  
+ *Bu servisler ilk olarak ABD Hükümeti ile yapılan sözleşme gereği İnternet Tahsisli Sayılar Otoritesi (**IANA**) ve diğer kurumlar tarafından gerçekleştiriliyordu. Günümüzde **IANA’nın** işlevini **ICANN** gerçekleştirmektedir.*  
 
- *Yani ICANN internetin kullanıcılara belirli kurallar çerçevesinde ulaşa bilemesi için tüm Teknik, İdari ve Politik görevlerinde sorumlu bir kuruluştur.*
+ *Yani ICANN internetin kullanıcılara belirli kurallar çerçevesinde ulaşabilemesi için tüm teknik, idari ve politik görevlerinde sorumlu bir kuruluştur.*
 
 [**iana.org**](https://www.iana.org/)
 [**icann.org**](https://www.icann.org/)
@@ -388,10 +386,10 @@ Madem internet bedava biz neye para veriyoruz.
 
 > [**systems-thinking.org/dikw**](http://www.systems-thinking.org/dikw/dikw.htm)
 
-**Knowlge** - *bilgi*
+**Knowledge** - *bilgi*
 **Information** - *malumat*
 
-### `"Knowlage is power"`
+### `"Knowledge is power"`
 ### `"Time is money"`
 #### `T/P = 1`
 
@@ -415,9 +413,9 @@ Madem internet bedava biz neye para veriyoruz.
 ..
 ..
 
-**"Gözlemcinin olmadığı yerde fizik çalışmaz."** - *Kuantim Fiziği*
+**"Gözlemcinin olmadığı yerde fizik çalışmaz."** - *Kuantum Fiziği*
 
-**"Oyuncunun bakmadığı yerde görüntü oluşturulmaz."** - *Oyun yapanlar*
+**"Oyuncunun bakmadığı yerde görüntü oluşturulmaz."** - *Oyun yapan programcılar*
 
 ---
 
@@ -434,31 +432,9 @@ Madem internet bedava biz neye para veriyoruz.
 ### `Temel taban artimatiki dersi.`
 > [**"how to convert hexadecimal to decimal"**](https://owlcation.com/stem/Convert-Hex-to-Decimal)
 
-- *2 tabaında* **11111111** sayısı *10 tabanın*daki **255** sayısına eşittir.
+- *2 tabanında* **11111111** sayısı *10 tabanın*daki **255** sayısına eşittir.
 
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
+---
 
 ## Kaynakça
 
