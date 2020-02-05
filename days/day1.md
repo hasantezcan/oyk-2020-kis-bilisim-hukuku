@@ -249,7 +249,7 @@ Veya irade beyaninin yerini tutan bir davranis olmadikca o islemin varligindan s
 
 # Temek hukuk bilgileri
 
-## İlga/Mülga Nedir?
+## İlga / Mülga Nedir?
 
 Hukukta **mülga** kelimesi yürürlükten kaldırılan anlamına gelmektedir. Hukuken kanun veya maddenin kaldırılması işlemine **ilga** denirken kaldırılan madde veya kanuna ise **mülga** denir.
 
@@ -272,6 +272,55 @@ Hukukta **mülga** kelimesi yürürlükten kaldırılan anlamına gelmektedir. H
 <p align="center">
 	<img alt="madde-bend-fikra" src="/images/day1/madde-bend-fikra.png" width="400">
 </p>
+
+## Hukukta Yardımcı Kişiler
+
+### 1- Bilir kişi
+- Sözlü bilir kişi sözlü katılmaz.
+- Hukuk bilirkişi almamaıldır çünkü hakim hukuk bilir kişisidir.
+- Bilir kişiyi hakim davaya dahil eder
+- Avukatlar da bilir kişi siteyebilir ama o zaman bu uzman görüşü olur.
+
+**Bilir kişilik şartları;**
+[`https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6754.pdf`](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6754.pdf)
+
+Hukuk iki ye ayrılır
+
+- **Özel hukuku**
+    - Medeni, aile, eşya, ticaret, devletler özel(pasoport meselesi)
+- **Kamu Hukuku**
+    - Ceza, anayasa, idare, vergi, devletler genel(türkiye - amerika arası)
+
+### 2- Ara buluculuk → Özel hukuk uyuşmazlığı
+
+- İhtiyari arabuluculuk
+- Dava Şartı
+    - İş Hukuku
+    - Ticaret hukuku
+
+**Arabuluculuk şartları:**
+- T.C vatandaşı
+- Hukuk fakültesi mezunu olmak
+- Mesleğinde5 yıl kıdeme sahip olmak
+- Sınavda başarı puanı (70 puan)
+
+**Ara buluculuk hakkında düşünceler;**
+
+- İnsanların adil yargılanma hakkına engel olan bir yöntem olduğunun düşübülüyor.
+- Uzun hukuk ortamına davanın girmesine öneleyip pratikce çözümlemeyi sağlıyor.
+
+### Uzalaştırma
+- Ceza hukuku
+
+Basit yaralama, gibi
+
+Akrabalık bağı yok ise..
+
+..
+..
+..
+..
+
 
 ---
 > Engür Pişirici dersi devraldı.
@@ -333,10 +382,60 @@ Madem internet bedava biz neye para veriyoruz.
 [**iana.org**](https://www.iana.org/)
 [**icann.org**](https://www.icann.org/)
 
+---
 
+## DIKW - Data, Information, Knowledge, & Wisdom
 
+> [**systems-thinking.org/dikw**](http://www.systems-thinking.org/dikw/dikw.htm)
+
+**Knowlge** - *bilgi*
+**Information** - *malumat*
+
+### `"Knowlage is power"`
+### `"Time is money"`
+#### `T/P = 1`
+
+<p align="center">
+	<img alt="dikw-1" src="/images/day1/dikw-1.png" width="475">
+</p>
+
+<p align="center">
+	<img alt="dikw-2" src="/images/day1/dikw-2.png" width="475">
+</p>
+
+- ***Know - How***
 ..
 ..
+
+- ***Know - What***
+..
+..
+
+- ***Know - Why***
+..
+..
+
+**"Gözlemcinin olmadığı yerde fizik çalışmaz."** - *Kuantim Fiziği*
+
+**"Oyuncunun bakmadığı yerde görüntü oluşturulmaz."** - *Oyun yapanlar*
+
+---
+
+<p align="center">
+	<img alt="ipv4-ipv6" src="/images/day1/ipv4-ipv6.png" width="600">
+</p>
+
+**notasyon:** gösterim biçimi
+
+- **1 bayt** **8 bit'tir** demek yanlıştır.
+
+- Doğru olan **1 octet(oktet)** **8 bit**'tir.
+
+### `Temel taban artimatiki dersi.`
+> [**"how to convert hexadecimal to decimal"**](https://owlcation.com/stem/Convert-Hex-to-Decimal)
+
+- *2 tabaında* **11111111** sayısı *10 tabanın*daki **255** sayısına eşittir.
+
 ..
 ..
 ..
