@@ -92,6 +92,12 @@ Base 64 bir şifreleme değildir. Bir kodlama yöntemidir.
 
 CTF yarışmalarında bunu şifreleme soruları olarak sorarlar.
 
+..
+..
+..
+..
+
+
 #### Önce sıkıştırıp sonra şifrelemek mi? Önce şifrelemek sonra sıkıştırmak mı?
 
 Önce sıkıştırcaz sonra şifreliycez.
