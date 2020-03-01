@@ -429,11 +429,22 @@ Madem internet bedava biz neye para veriyoruz.
 
 - Doğru olan **1 octet(oktet)** **8 bit**'tir.
 
-### `Temel taban artimatiki dersi.`
+### `Temel taban artimatiği dersi.`
 > [**"how to convert hexadecimal to decimal"**](https://owlcation.com/stem/Convert-Hex-to-Decimal)
 
 - *2 tabanında* **11111111** sayısı *10 tabanın*daki **255** sayısına eşittir.
 
+##### *SORU* - *`2A Hexadecimal sayısının onluk karşılığı kaçtır?`*
+
+```
+A = 10, 10 x 16^0 = 10
+
+2, 2 x 16^1 = 32
+
+32 + 10 = 42
+```
+
+- **hexadecimal sayıları decimal sayılara çevirme anlatım** [bknz.](https://owlcation.com/stem/Convert-Hex-to-Decimal](https://owlcation.com/stem/Convert-Hex-to-Decimal))
 ---
 
 ## Kaynakça
