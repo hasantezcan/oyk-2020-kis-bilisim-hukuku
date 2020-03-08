@@ -1,6 +1,6 @@
 #### `Özgür Yazılım Kış Kampı '20`
 
-### `Bilişim Hukuku - GÜN 1 - 2020.01.24`
+### `Bilişim Hukuku - GÜN 1 - 2020.01.25`
 
 ---
 
