@@ -4,10 +4,14 @@
 
 ---
 
-Doruk Fişek Yazılım Nasıl Özgür oldu sunumu
+## Doruk Fişek - Özgür Bir Yazılımcı Olmak
+> Bu sunum ve sunumla ilgili aldığım notları görmek için [**bknz 2019 yaz kampında aldığım notlar.**](https://github.com/hasantezcan/oyk_2019_yaz_ruby_rails/blob/master/posts/day3.md#doruk-fi%C5%9Fek---%C3%B6zg%C3%BCr-bir-yaz%C4%B1l%C4%B1mc%C4%B1-olmak)
 
+---
 
 ## Türk Ceza Kanun'da Bilişim Suçları
+
+##### [`TCK - Türk Ceza Kanunu`](https://mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf)
 
 “Bilişim Alanında Suçlar” başlığı altında, **topluma karşı suçlar** bölümünde; kişisel verilerle ilgili hükümlerin yer aldığı, özel hayata ve hayatın gizli alanına karşı suçlar bölümünde; **nitelikli hırsızlık** ve nitelikli dolandırıcılık suçları bakımından ise **malvarlığına karşı suçlar** bölümünde düzenlenmiştir.
 
