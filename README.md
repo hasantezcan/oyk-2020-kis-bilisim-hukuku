@@ -11,11 +11,8 @@ Kurs eğitmenleri; [**`Oya Günendi`**](https://twitter.com/okyansilayna), [**`A
 |:-:|:------------:|:-------:|:--------:|
 | 1 | Tanışma,<br> Hukuk 101,<br> Bilişim Hukukuna giriş,<br> Sayı Kavramı Taban aritmatiği,<br> Ipv4 Ipv6 notasyonları,<br>  | &bull; [**`1. Gün Ders Notlarım`**](/days/day1.md) | Kitap tavisyesi: <br> [**"Incognito"**](https://www.amazon.com/Incognito-Secret-Lives-David-Eagleman/dp/0307389928?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0307389928)  |
 | 2 | RFC, <br> Information Theory, <br> Encoding, Encryption, Compression, <br> Hash Nedir?, <br> Elektronik İmza | [**`2. Gün Ders Notlarım`**](/days/day2.md) | ... |
-| 3 | ... | ... | TCK Bilişim hukuku suçları sunumları: <br> [**"m. 243"**](/presentations/1-bilisim-hukuku-kavramlari+TCK-243.pdf), [**"m. 244"**](/presentations/2-TCK-244.pdf), [**"m. 245"**](/presentations/3-TCK-245-245_A.pdf) |
+| 3 | TCK m. 243,<br> TCK m. 244,<br> TCK m. 245,<br> 5651,<br>| &bull; [**`3. Gün Ders Notlarım`**](/days/day3.md) | TCK Bilişim hukuku suçları sunumları: <br> [**"m. 243"**](/presentations/1-bilisim-hukuku-kavramlari+TCK-243.pdf), [**"m. 244"**](/presentations/2-TCK-244.pdf), [**"m. 245"**](/presentations/3-TCK-245-245_A.pdf) |
 | 4 | ... | ... | ... |
-
-[]()
-
 
 
 <p align="center">
